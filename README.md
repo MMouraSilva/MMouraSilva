@@ -1,7 +1,7 @@
 ### Opa, me chamo Matheus 👊
 
-- 💻 Estou atualmente trabalhando bastante com CodeIgniter 3
-- 🌱 Estudo Análise e Desenvolvimento de Sistemas
+- 💻 Estou atualmente trabalhando bastante com Crystal Reports e SQL Server
+- 🌱 Cursando Ciência da Computação
 - 🔭 Buscando aperfeiçoar meu conhecimento e expandir meus horizontes
 - 📫 Você pode me encontrar no instagram @matheus.moura78
 - ⚡ Fun fact: Pratico Kenjutsu, a arte marcial do caminho da espada Samurai
