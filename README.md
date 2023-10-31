@@ -1,6 +1,6 @@
 ### Opa, me chamo Matheus 👊
 
-- 💻 Estou atualmente trabalhando bastante com Crystal Reports e SQL Server
+- 💻 Estou atualmente trabalhando bastante com JavaScript, Node.js e SQL Server
 - 🌱 Cursando Ciência da Computação
 - 🔭 Buscando aperfeiçoar meu conhecimento e expandir meus horizontes
 - 📫 Você pode me encontrar no instagram @matheus.moura78
@@ -32,8 +32,13 @@
   <img align="center" alt="CodeIgniter" height="30" width="40" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/codeigniter/plain/CodeigniterPlain.svg">
   <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/csharp/original/CsharpOriginal.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/java/original/JavaOriginal.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/csharp/original/CsharpOriginal.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/nodejs/original-wordmark/NodejsOriginalWordmark.svg">
+</div>
+    
+<div style="display: inline_block"><br>
+  <h3 style="background-color:rgba(0, 0, 0, 0.0470588);">🔧 Ferramentas de domínio: <h3>
+  <img align="center" alt="Java" height="70" width="90" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/nodejs/original-wordmark/NodejsOriginalWordmark.svg">  
+  <img align="center" alt="Java" height="70" width="90" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/git/original/GitOriginal.svg"/>
 </div>
     
 ##
