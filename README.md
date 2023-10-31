@@ -32,6 +32,8 @@
   <img align="center" alt="CodeIgniter" height="30" width="40" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/codeigniter/plain/CodeigniterPlain.svg">
   <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/csharp/original/CsharpOriginal.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/java/original/JavaOriginal.svg">
+  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/csharp/original/CsharpOriginal.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/java/original/JavaOriginal.svg">
 </div>
     
 ##
