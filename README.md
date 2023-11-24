@@ -39,6 +39,8 @@
   <img align="center" alt="Java" height="70" width="90" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/nodejs/original-wordmark/NodejsOriginalWordmark.svg">  
   <img align="center" alt="Java" height="70" width="90" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/git/original/GitOriginal.svg"/>
+  <img align="center" alt="Java" height="30" width="40" src="https://upload.vectorlogo.zone/logos/expressjs/images/a1b5cb1f-dae7-4971-ab5b-68efce751b0f.svg"/>
+  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/sequelize/original/SequelizeOriginal.svg"/>
 </div>
     
 ##
